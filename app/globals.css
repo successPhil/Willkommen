@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(250, 204, 21) ;/* Yellow background */
+  color: black; /* Black text by default */
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: black;
+  color: yellow;
+}
+
+
+.ending {
+  font-weight: bold;
+  color: #FF0000;  /* Gold color for endings */
+  font-style: italic;
+}
+
