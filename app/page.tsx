@@ -39,7 +39,7 @@ export default function Home() {
         I have created a reference to help myself study German. This application will cover some basic and common phrases in German. 
         I intend to build some simple ways to quiz yourself in German!
       </p>
-      <h2 className="text-xl font-bold mb-4">Let's start with some numbers.</h2>
+      <h2 className="text-xl font-bold mb-4">Let&apos;s start with some numbers.</h2>
 
       {/* Number grid */}
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
